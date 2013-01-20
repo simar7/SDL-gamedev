@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1194095651 c:\development\tutorials\sdl tutorial 4\capp_oncleanup.cpp
+	"CApp.h"
+
+1194099457 c:\development\tutorials\sdl tutorial 4\capp.h
+	<SDL.h>
+	"CEvent.h"
+	"CSurface.h"
+
+1193348371 c:\development\tutorials\sdl tutorial 4\cevent.h
+	<SDL.h>
+
+1194097340 c:\development\tutorials\sdl tutorial 4\csurface.h
+	<SDL.h>
+
+1194099437 c:\development\tutorials\sdl tutorial 4\capp_onevent.cpp
+	"CApp.h"
+
+1194098701 c:\development\tutorials\sdl tutorial 4\capp_oninit.cpp
+	"CApp.h"
+
+1193317699 c:\development\tutorials\sdl tutorial 4\capp_onloop.cpp
+	"CApp.h"
+
+1194098666 c:\development\tutorials\sdl tutorial 4\capp_onrender.cpp
+	"CApp.h"
+
+1193348424 c:\development\tutorials\sdl tutorial 4\cevent.cpp
+	"CEvent.h"
+
+1194097350 c:\development\tutorials\sdl tutorial 4\csurface.cpp
+	"CSurface.h"
+
+1194099494 c:\development\tutorials\sdl tutorial 4\capp.cpp
+	"CApp.h"
+
